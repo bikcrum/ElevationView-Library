@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="slope_minus_5">#a1da8c</color>
+    <color name="slope_0">#a1dad0</color>
+    <color name="slope_10">#b26f16</color>
+    <color name="slope_20">#a92122</color>
+</resources>

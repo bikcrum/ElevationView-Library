@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ElevationView">
+        <attr name="graphPaddingTop" format="dimension" />
+        <attr name="graphPaddingStart" format="dimension" />
+        <attr name="graphPaddingEnd" format="dimension" />
+        <attr name="graphPaddingBottom" format="dimension" />
+        <attr name="showStats" format="boolean" />
+        <attr name="landscape" format="boolean" />
+        <attr name="distance_x" format="reference" />
+        <attr name="elevation_y" format="reference" />
+        <attr name="copyright" format="string" />
+
+    </declare-styleable>
+
+</resources>

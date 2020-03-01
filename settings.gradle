@@ -1,0 +1,2 @@
+include ':app', ':elevationview'
+rootProject.name='ElevationView-Example'

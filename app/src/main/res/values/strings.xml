@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ElevationView-Example</string>
+
+    <string-array name="distanceX">
+        <item>0</item>
+        <item>50</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+    </string-array>
+
+    <string-array name="elevationY">
+        <item>120</item>
+        <item>125</item>
+        <item>200</item>
+        <item>190</item>
+        <item>370</item>
+        <item>370</item>
+        <item>426</item>
+        <item>551</item>
+    </string-array>
+
+</resources>
